@@ -7,7 +7,7 @@ const PORT = 3000;
 const produts = [
   {
     id: 1,
-    name: "Pesas de 25kg",
+    name: "Sack boy la gran aventura",
     price: 50,
     image: "images/product-1.jpg",
     stock: 50,
@@ -15,7 +15,7 @@ const produts = [
 
   {
     id: 2,
-    name: "name",
+    name: "Spiderman Remastered",
     price: 500,
     image: "images/product-2.jpg",
     stock: 50,
@@ -23,7 +23,7 @@ const produts = [
 
   {
     id: 3,
-    name: "name",
+    name: "Death Strandind Director´s cut",
     price: 300,
     image: "images/product-3.jpg",
     stock: 50,
@@ -31,7 +31,7 @@ const produts = [
 
   {
     id: 4,
-    name: "name",
+    name: "A Plague Tail Requiem",
     price: 400,
     image: "images/product-4.jpg",
     stock: 50,
@@ -39,7 +39,7 @@ const produts = [
 
   {
     id: 5,
-    name: "name",
+    name: "The King Of Fighters",
     price: 75,
     image: "images/product-5.jpg",
     stock: 50,
@@ -47,7 +47,7 @@ const produts = [
 
   {
     id: 6,
-    name: "name",
+    name: "Turtles the Cowabunga Collection",
     price: 700,
     image: "images/product-6.jpg",
     stock: 50,
